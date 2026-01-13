@@ -1,6 +1,3 @@
-Here is the **updated, complete, and polished README.md** with your **exact live link** included and everything cleaned up professionally.
-You can **directly replace your existing README.md** with this.
-
 ---
 
 # 🚙 MAHINDRA CUSTOMS
